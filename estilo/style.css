@@ -42,4 +42,5 @@ iframe#tela {
     left: 21px;
     height: 470px;
     width: 268px;
+    border: 1px solid rgba(36, 36, 36, 0.541);
 }
